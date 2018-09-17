@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/StratfordHS-CS2/lab-04-geometry-username.svg?token=L8ZuTUsXtxKqevAPVWLC&branch=master)](https://travis-ci.com/StratfordHS-CS2/lab-04-geometry-username)
+[![Build Status](https://travis-ci.com/StratfordHS-CS2/lab-04-geometry-ohdav000.svg?token=L8ZuTUsXtxKqevAPVWLC&branch=master)](https://travis-ci.com/StratfordHS-CS2/lab-04-geometry-ohdav000)
 
 # Lab 04 - Geometry
 
