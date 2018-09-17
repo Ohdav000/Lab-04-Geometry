@@ -17,9 +17,13 @@ In your ```Geometry``` class, modify the following methods.
 * ```trapArea()``` - With base1, base2, and height as parameters, returns the area of the trapezoid.
 
 Hint: ```Math.PI``` will give you the value of pi.
+
 Hint: ```Math.pow()``` is how you do powers. [Example](https://www.geeksforgeeks.org/java-pow-method-example/)
+
 Hint: Volume of a cone is (1/3) * area of base * height
+
 Hint: Slope = (y2 - y1) / (x2 - x1)
+
 Hint: Area of a trapezoid = (1/2) * (base1 + base2) * height
 
 Run the ```Runner``` for each shape to see if it is working.
